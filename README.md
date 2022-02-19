@@ -5,6 +5,8 @@
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/silard-gal/) 
 - 💼 Always open to new freelance/startup projects 
 
+[![silards's GitHub stats](https://github-readme-stats.vercel.app/api?username=silardg)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **silardg/silardg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
